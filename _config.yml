@@ -1,0 +1,8 @@
+title: Sant0sh.github.io
+description: Personal Blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
